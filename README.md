@@ -6,8 +6,10 @@ I'd suggest commiting to a time frame of 30-60m to introduce yourself to what I'
 
 # File Structure
 📦introduction-to-programming
+
  ┣ 📜README.md
- ┗ 📜[tasks.md](./tasks.md)
+
+ ┗ 📜tasks.md
 
 
 # Get involved
