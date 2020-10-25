@@ -130,3 +130,19 @@
  > tags: variables, ASCII, flow-control, constants
  ---
 
+ 
+ ## 8. print squares
+По въведено цяло положително число `N`. Изведете квадратите на всички числа в интервала `[1, N]`.
+Валидирайте входа.
+
+ | Input | Output |
+ | --- | --- |
+ | 3 | 1 4 9 |
+ | 5 | 1 4 9 16 25 |
+ | 10 | 1 4 9 16 25 36 49 64 81 100 |
+ | -4 | Please enter a number bigger or equal to 1. |
+
+ > tags: validation, loops
+ ---
+
+ 
