@@ -5,8 +5,8 @@ A complementary github repository for the [videos](https://drive.google.com/driv
 I'd suggest commiting to a time frame of 30-60m to introduce yourself to what I've done, check some videos, look around the repository, read the notes, the backlog and after doing the research decide whether all of this is worth your time or not.
 
 # File Structure
-📦introduction-to-programming
- ┣ 📜README.md
+📦introduction-to-programming <br>
+ ┣ 📜README.md <br>
  ┗ 📜tasks.md
 
 
