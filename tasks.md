@@ -78,7 +78,7 @@
 
  > tags: variables, flow-control, math
 
- > options tags: functions, 3D distance, validation, loop-validation
+ > additional tags: functions, 3D distance, validation, loop-validation
  ---
 
 
@@ -94,4 +94,24 @@
 
  > tags: variables, validation-loop
  ---
+
+ ## 5. find letter casing
+От конзолата се въвежда един символ, буква от английската азбука, изведете съобщения дали буквата е главна или малка.
+
+**Допълнение:** Добавете проверка дали въведения символ наистина е буква. Ако не е, изведете съобщение за грешка и приключете програмата.
+**Допълнение:** Превърнете единичната проверка в проверка, която прави ново запитване при въведен невалиден символ.
+
+ | Input | Output |
+ | --- | --- |
+ | a |  'a' is lower case. |
+ | B |  'B' is upper case. |
+ | * |  '*' is not a letter. Shutting down... |
+ | % |  '%' is not a letter. Please try again. |
+
+
+ > tags: variables, ASCII, flow-control
+
+ > additional tags: validation, loop-validation
+ ---
+
 
