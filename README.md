@@ -5,7 +5,7 @@ A complementary github repository for the [videos](https://drive.google.com/driv
 I'd suggest commiting to a time frame of 30-60m to introduce yourself to what I've done, check some videos, look around the repository, read the notes, the backlog and after doing the research decide whether all of this is worth your time or not.
 
 # Structure
-TODO: add structure, after one makes sense.
+[solved_tasks.md](./solved_tasks.md) - The tasks I am working on, there are no solutions in text format for now.
 
 # Get involved
 If you're here, you're probably studying Introduction to Programming in FMI. Your opinion and support are **invaluable**. You can add your suggestions in the [notes docs](https://docs.google.com/document/d/1aJhs29Bkjn7rbrxkCdMtQD8qPoSH8-uYzLaM-0nEOxI/edit?usp=sharing). You can also show your support by starring this repository, so I have an idea how much people I am working with.
